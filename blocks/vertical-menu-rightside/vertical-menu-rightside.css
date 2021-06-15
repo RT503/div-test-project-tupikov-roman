@@ -1,0 +1,8 @@
+.vertical-menu-rightside {
+  width: 31px;
+  height: 224px;
+  position: fixed;
+  right: 30px;
+  top: 300px;
+  background-image: url("../../images/rightside-menu.png");
+}

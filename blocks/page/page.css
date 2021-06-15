@@ -1,0 +1,14 @@
+.page {
+  margin: 0 auto;
+  background-color: white;
+  background-image: url("../../images/page-background.png");
+  background-size: cover;
+  color: black;
+  font-family: "Kinopoisk", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}

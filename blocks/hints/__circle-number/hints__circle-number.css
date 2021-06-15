@@ -1,0 +1,13 @@
+.hints__circle-number {
+  position: relative;
+  top: 2px;
+  left: 2px;
+  font-family: Kinopoisk;
+  font-weight: bold;
+  height: 19px;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+
+  color: #000000;
+}

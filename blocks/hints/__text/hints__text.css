@@ -1,0 +1,14 @@
+.hints__text {
+  max-width: 902px;
+  text-align: center;
+  font-family: Kinopoisk;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.4px;
+  color: #000000;
+  background-color: white;
+  position: relative;
+  top: -250px;
+  left: auto;
+}

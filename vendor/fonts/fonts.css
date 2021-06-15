@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Futura';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/futura-bold.woff2') format("woff2")
+}
+
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-bold.woff2') format("woff2")
+}
+
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-light.woff2') format("woff2")
+}
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-lite.woff2') format("woff2")
+}
+
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-medium.woff2') format("woff2")
+}
+
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-regular.woff2') format("woff2")
+}
+@font-face {
+  font-family: 'Kinopoisk';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/kinopoisk-semibold.woff2') format("woff2")
+}

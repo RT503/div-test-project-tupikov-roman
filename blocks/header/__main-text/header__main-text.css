@@ -1,0 +1,13 @@
+.header__main-text {
+  font-family: Futura;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 72px;
+  letter-spacing: -0.692308px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  padding-top: 24px;
+  text-align: center;
+  color: #FFCC64;
+}

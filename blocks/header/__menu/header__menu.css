@@ -1,0 +1,12 @@
+.header__menu {
+  width: 19.62px;
+  height: 15.97px;
+  background-image: url("../../../images/menu.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  left: 35px;
+  top: 25px;
+  padding: 0;
+}
