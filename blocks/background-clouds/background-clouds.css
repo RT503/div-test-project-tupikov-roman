@@ -1,0 +1,6 @@
+.background-clouds {
+  position: absolute;
+  top: 30px;
+  left: 200px;
+  z-index: -1;
+}

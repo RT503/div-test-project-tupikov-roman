@@ -2,4 +2,5 @@
   width: 304px;
   height: 436px;
   padding-top: 17px;
+  z-index: -2;
 }

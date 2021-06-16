@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./pages/index.css">
     <title>TEST PROJECT</title>
   </head>
   <body class="page">
@@ -11,29 +10,34 @@
       <menu class="header__menu"></menu>
       <header class="header">
         <a class="header__logo" href="https://www.kinopoisk.ru/" target="_blank">
-          <img src="images/logo-kinopoisk.png" alt="Логотип Кинопоиск" class="header__logo">
+          <img src="../images/logo-kinopoisk.png" alt="Логотип Кинопоиск" class="header__logo">
         </a>
         <h2 class="header__main-text">ОНИ ДОЛЖНЫ ЧТО-ТО ЗНАТЬ</h2>
       </header>
       <main class="content">
-        <section class="hints">
+        <!-- Slider main container -->
+        <section class="hints ">
+
           <div class="hints__circle">
             <p class="hints__circle-number">1/8</p>
           </div>
-          <img class="hints__image" src="images/racer.png">
+          <!-- Slides -->
+          <img class="hints__image" src="../images/racer.png">
           <p class="hints__text">Для примера мы показали вам его лицо.  В первой серии он прячется в подвале
             за мониторами, и пусть борода не собьёт вас с толку. Найдите героя и нажмите  на паузу —
             ему не терпится отдать вам промокод.
           </p>
+          <button class="hints__next-slide-button"></button>
+          <img class="background-clouds" src="../images/clouds.png">
         </section>
         <button class="find-promocode-field">
           <p class="find-promocode-field__text">Искать промокод</p>
-          <img class="find-promocode-field__arrow" src="images/promocode-arrow.png">
+          <img class="find-promocode-field__arrow" src="../images/promocode-arrow.png">
         </button>
       </main>
     </div>
-    <img class="scrolldown" src="images/scrolldown.png">
-    <img class="vertical-menu" src="images/menu-vertical.png">
+    <img class="scrolldown" src="../images/scrolldown.png">
+    <img class="vertical-menu" src="../images/menu-vertical.png">
     <a class="vertical-menu-rightside" href="https://www.kinopoisk.ru/" target="_blank"></a>
   </body>
 </html>

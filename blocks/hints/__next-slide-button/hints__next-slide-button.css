@@ -1,0 +1,12 @@
+.hints__next-slide-button {
+  color: black;
+  background-image: url("../../../images/faq-arrow.png");
+  background-size: contain;
+  border-radius: 50%;
+  position: relative;
+  border: none;
+  width: 56px;
+  height: 56px;
+  top: -500px;
+  left: 400px;
+}
